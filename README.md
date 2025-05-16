@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on CP
 - 📫 How to reach me DON'T
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I played the main antagonist in a popular documentary V Síti
+- ⚡ Fun fact: I'm a Comi
 
 <!---
 MisterBaiter/MisterBaiter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
