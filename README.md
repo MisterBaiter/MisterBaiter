@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dan
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning Godot and 2D pixel art
-- 📫 How to reach me my email: dansoukup05@gmail.com
+- 📫 How to reach me: my email: dansoukup05@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
