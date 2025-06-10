@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @MisterBaiter
+- 👋 Hi, I’m Dan
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning Godot, 2D and pixel art
-- 💞️ I’m looking to collaborate on CP
-- 📫 How to reach me DON'T
+- 🌱 I’m currently learning Godot and 2D pixel art
+- 📫 How to reach me my email: dansoukup05@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a Comi
 
 <!---
 MisterBaiter/MisterBaiter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
