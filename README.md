@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dan
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning Godot and 2D pixel art
+- 🌱 I’m currently learning Godot and C++
 - 📫 How to reach me: dansoukup05@gmail.com
 - 😄 Pronouns: He/Him
 
